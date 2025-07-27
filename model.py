@@ -56,7 +56,7 @@ else:
     print("Price Decreased or Same")
 
 #Streamlit UI
-st.title("📈 Stock Price Movement Predictor")
+st.title("📈 NVIDIA Stock Price Movement Predictor")
 st.write("Predict if the stock price will **increase or decrease** based on input values.")
 
 # Sidebar user input
